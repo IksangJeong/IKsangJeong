@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**IksangJeong/IKsangJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Awards & Achievements
 
-Here are some ideas to get you started:
+**2021**
+- 대학교 SW창업 아이디어 경진대회 **최우수상**
+- 대학교 Start-App 캠프&경진대회 **우수상**
+- AI아카데미 **대상**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2022**
+- 군복무 (22.01.10~)
+
+**2024**
+- 스마트모빌리티 아이디어 경진대회 **우수상**
+- 이노브릿지 아이디어 해커톤 **차세대기술상**
+- 창의대첩 **장려상**
+- 대학교 책쓰기 프로젝트 **(책 출간)**
+- 전국 대학교 자율주행 경진대회 **주행 5등**
+- 산학과제
+
+**2025**
+- Do-dream 해커톤 **최우수상**
+- 한국프로젝트경영학회·한국혁신산업학회 공동학술대회및논문발표
